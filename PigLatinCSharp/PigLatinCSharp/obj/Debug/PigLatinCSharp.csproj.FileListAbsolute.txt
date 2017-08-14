@@ -1,0 +1,6 @@
+C:\Users\MRSWHITE\Desktop\CSC 253\PigLatinCSharp\PigLatinCSharp\bin\Debug\PigLatinCSharp.exe.config
+C:\Users\MRSWHITE\Desktop\CSC 253\PigLatinCSharp\PigLatinCSharp\bin\Debug\PigLatinCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\PigLatinCSharp\PigLatinCSharp\bin\Debug\PigLatinCSharp.pdb
+C:\Users\MRSWHITE\Desktop\CSC 253\PigLatinCSharp\PigLatinCSharp\obj\Debug\PigLatinCSharp.csprojResolveAssemblyReference.cache
+C:\Users\MRSWHITE\Desktop\CSC 253\PigLatinCSharp\PigLatinCSharp\obj\Debug\PigLatinCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\PigLatinCSharp\PigLatinCSharp\obj\Debug\PigLatinCSharp.pdb
