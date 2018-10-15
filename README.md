@@ -3,8 +3,8 @@ Pig latin is a language game where a phrase is translated to Pig Latin by removi
 
 ### Here is a snippet of the code 
 
-![FizzBuzzCode](https://itstaraking.github.io/PigLatin/PigLatinCSharp/PLCode.png)
+![PigLatinCode](https://itstaraking.github.io/PigLatin/PigLatinCSharp/PLCode.png)
 
 ### Here is an example of output...
 
-![FizzBuzzOutput](https://itstaraking.github.io/PigLatin/PigLatinCSharp/PLImage.png)
+![PigLatinOutput](https://itstaraking.github.io/PigLatin/PigLatinCSharp/PLImage.png)
